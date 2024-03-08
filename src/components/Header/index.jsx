@@ -12,10 +12,11 @@ const NavBar = () => {
         >
           <div className="flex-1 flex">
             <a
-              href="#"
+              href="/"
               data-aos="fade-up"
               data-aos-duration="1500"
               className="m-1.5"
+              rel="noreferrer"
             >
               <img className="h-12" src={logo} alt="" />
             </a>
