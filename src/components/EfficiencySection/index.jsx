@@ -27,6 +27,7 @@ const Efficiency = () => {
             className="w-full"
             data-aos="zoom-in"
             data-aos-duration="2000"
+            alt="efficiency"
           />
         </div>
       </div>

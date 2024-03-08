@@ -52,7 +52,7 @@ const AnalyticsSection = () => {
                   </div>
                 </div>
                 <div>
-                  <img src={Analytics} />
+                  <img src={Analytics} alt="analytics"/>
                 </div>
               </div>
             </div>
@@ -60,7 +60,7 @@ const AnalyticsSection = () => {
           <div className="border rounded-3xl bg-[#0d0d0d] w-[380px]">
             <div className="py-7 px-9 ">
               <div>
-                <img src={Widget1} className="w-[300px]" />
+                <img src={Widget1} className="w-[300px]" alt="Widget"/>
               </div>
               <div className="text-lg font-normal font-urbanist text-center text-white ">
                 Widget Control
